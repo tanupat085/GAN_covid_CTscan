@@ -3,7 +3,7 @@ some code that a good start to train and learn GANs </br>
   https://www.kaggle.com/code/ahmedabdulhamid/gan-generating-hand-written-digits-pytorch-1
   https://www.kaggle.com/discussions/general/247865#1359717
 
-example of cls and segmentation
+example of cls and segmentation </br>
   https://www.kaggle.com/code/deadskull7/covid-19-inf-lung-segmentation-classification
   https://www.kaggle.com/code/shawon10/covid-19-diagnosis-from-images-using-densenet121
   https://www.kaggle.com/datasets/plameneduardo/sarscov2-ctscan-dataset/code?datasetId=615374&sortBy=voteCount
