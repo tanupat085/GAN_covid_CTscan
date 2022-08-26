@@ -1,4 +1,4 @@
-some code that a good start to train and learn GANs </n>
+some code that a good start to train and learn GANs </br>
   https://www.kaggle.com/code/nassimyagoub/gan-anime-faces
   https://www.kaggle.com/code/ahmedabdulhamid/gan-generating-hand-written-digits-pytorch-1
   https://www.kaggle.com/discussions/general/247865#1359717
