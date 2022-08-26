@@ -12,5 +12,5 @@ some paper need to read
   COVID-19 CT Image Synthesis with a Conditional Generative Adversarial Network
     https://arxiv.org/pdf/2007.14638.pdf
     
-![Tanupat Satitvattana]
+![sample]
 (https://github.com/tanupat085/GAN_covid_CTscan/blob/main/5.png?raw=true)
